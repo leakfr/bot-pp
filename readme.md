@@ -17,7 +17,7 @@ Ils vous faut aussi activer les intents sur votre bot dans [Discord Développer]
 
 Configurations
 -----
-Aller dans `config.json` et metter votre token et votre salonid
+Aller dans `config.json` et metter votre token de bot et votre l'id de votre salon de pp
 
 Lancement
 -----
