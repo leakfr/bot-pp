@@ -19,5 +19,5 @@ channel.send(embed);
 }
 
 
-}, 6000)})
+}, 20000)})
 client.login(token)
