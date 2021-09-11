@@ -19,4 +19,4 @@ channel.send(embed);
 
 
 }, 20000)})
-client.login(token)
+client.login(config.token)
